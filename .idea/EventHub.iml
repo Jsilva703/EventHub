@@ -1697,6 +1697,56 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="pg (v1.6.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="additionalInfo">
+            <AdditionalInfo>
+              <option name="authors" value="N/A" />
+              <option name="email" value="N/A" />
+              <option name="homepage" value="N/A" />
+              <option name="summary" value="N/A" />
+            </AdditionalInfo>
+          </option>
+          <option name="fromPath" value="true" />
+          <option name="name" value="pg" />
+          <option name="requirePaths">
+            <list>
+              <option value="lib" />
+            </list>
+          </option>
+          <option name="url" value="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux" />
+          <option name="version" value="1.6.3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/misc" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/certs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ports" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/sample" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/rakelib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/misc" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/certs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ports" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/sample" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/rakelib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/misc" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/certs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/ports" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/sample" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.2.0/gems/pg-1.6.3-x86_64-linux/rakelib" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="pp (v0.6.4) [path][gem]" type="rubylib">
         <properties>
           <option name="additionalInfo">
