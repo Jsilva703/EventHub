@@ -1,5 +1,5 @@
 class Event < ApplicationRecord
-
+  belongs_to :organization
   enum :status, { draft: 'draft', published: 'published', canceled: 'canceled', finished: 'finished' }
 
   validates :status, presence: true
