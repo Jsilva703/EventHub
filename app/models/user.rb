@@ -1,6 +1,9 @@
 class User < ApplicationRecord
   has_secure_password
 
+  has_many :registrations
+  has_many :events, through: :registrations
+
   enum :status, { active: 'active', deactivated: 'deactivated' }
 
   before_validation :normalize_email
